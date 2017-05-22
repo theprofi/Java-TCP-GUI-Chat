@@ -4,7 +4,7 @@ The user who runs the Server JAR is considered as the server.
 All other users which are in the same WIFI as the server can connect to the chat and communicate along with advaced features that I made. 
 All the code here is made solely by me from scratch.
 
-<br><br>
+
 Feel free trying to challange the application as I assure you there are no known bugs!
 <br>
 
