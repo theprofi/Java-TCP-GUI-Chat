@@ -10,7 +10,7 @@ Feel free trying to challange the application, check for bugs and copy the code.
 
 <h3>How to use:</h3>
 <h4>How to start the server:</h4>
-  You need to have the <strong>Server.jar</strong> and <strong>Client.jar</strong> either compile it by yourself or use the ones I've compiled which are located in the folder Final JARs<br>
+  You need to have the <strong>Server.jar</strong> and <strong>Client.jar</strong> either compile it by yourself or use the ones I've compiled which are located in the folder Final JARs.<br>
   Run <strong>Server.jar</strong> and click Start (make sure port 18524 is free)<br>
   <h4>How to start the client (do it for every new client):</h4>
     Run Client.JAR type the local address of the machine that started the server.<br>
