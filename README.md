@@ -1,5 +1,11 @@
 # Java-TCP-GUI-Chat
-As a project in communications course in my BSc degree I was required to make a chat application. 
+<h3>Intro</h3>
+As a project in communications course in my BSc degree I was required to make a chat application.
+<br />
+I made this program from scratch completely by myself and without copying any functionality from other sources.
+<br />
+I know the code isn't perfect, but I did it in a rush to submit on time, while I had other academic duties.
+<br><br>
 The user who runs the Server JAR is considered as the server.
 All other users which are in the same WiFi network as the server can connect to the chat and communicate along with advanced features that I made. <br>
 <strong>All the code here is made solely by me from scratch. Opposed to the majority of my classmates.</strong>
