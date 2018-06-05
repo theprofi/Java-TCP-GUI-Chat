@@ -7,7 +7,7 @@ I made this program from scratch completely by myself and without copying any fu
 I know the code isn't perfect, but I did it in a rush to submit on time, while I had other academic duties.
 <br><br>
 The user who runs the Server JAR is considered as the server.
-All other users which are in the same WiFi network as the server can connect to the chat and communicate along with advanced features that I made. <br>
+All other users which are in the same WiFi network as the server can connect to the chat by runnig the Client.JAR file and communicate using the advanced features that I made. <br>
 <br>
 I added a class diagram and a detailed java doc.<br>
 Feel free trying to challange the application, check for bugs and copy the code.
