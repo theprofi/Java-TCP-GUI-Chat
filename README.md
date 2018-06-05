@@ -8,8 +8,7 @@ I know the code isn't perfect, but I did it in a rush to submit on time, while I
 <br><br>
 The user who runs the Server JAR is considered as the server.
 All other users which are in the same WiFi network as the server can connect to the chat and communicate along with advanced features that I made. <br>
-<strong>All the code here is made solely by me from scratch. Opposed to the majority of my classmates.</strong>
-
+<br>
 I added a class diagram and a detailed java doc.<br>
 Feel free trying to challange the application, check for bugs and copy the code.
 <br>
